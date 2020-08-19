@@ -1,5 +1,3 @@
 {
-  "send": [
-    { "message": "hola mundo!", "number": "+60125917360", "messageId": "1" }
-  ]
+  "send": { "message": "hola mundo!", "number": "+60125917360", "messageId": "1" }
 }
